@@ -119,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jianhao CHEN is a Mphil Candidate of Smart Manufactory at the Hong Kong University of Science and Technology. His research interests include virtual reality, robotics, Human-computer interaction, Medical micro-robots. His major work focuses on and has been published in the top conference on human-computer interaction: ACM CHI.
 {style="text-align: justify;"}
