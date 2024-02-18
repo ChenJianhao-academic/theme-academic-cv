@@ -57,10 +57,10 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Unity
         description: ''
         percent: 100
-        icon: chart-line
+        icon: Unity
         icon_pack: fas
       - name: SQL
         description: ''
