@@ -28,9 +28,11 @@ organizations:
 bio: My research interests include distributed virtual reality, robotics, Human-computer interaction, Medical micro-robots
 # Interests to show in About widget
 interests:
-  - Virtual Reality & Augmented reality & Mixed Reality
+  - Virtual Reality
   - Human-Computer Interaction
   - Robotics
+  - Augmented Reality
+  - Mixed Reality
 
 # Education to show in About widget
 education:
