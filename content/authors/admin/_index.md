@@ -60,7 +60,7 @@ skills:
       - name: Unity
         description: ''
         percent: 100
-        icon: unity-svgrepo-com
+        icon: unity
         icon_pack: fas
       - name: SQL
         description: ''
