@@ -126,5 +126,5 @@ social:
 highlight_name: true
 ---
 
-Jianhao CHEN is a Mphil Candidate of Smart Manufactory at the Hong Kong University of Science and Technology. His research interests include virtual reality, robotics, Human-computer interaction, Medical micro-robots. His major work focuses on the top conferences, and journals on human-computer interaction and virtual reality, just like: ACM CHI, IEEE VR, IEEE Transactions on Visualization and Computer Graphics...
+Jianhao CHEN is a Mphil Candidate of Smart Manufactory at the Hong Kong University of Science and Technology. His research interests include Virtual Reality, Robotics, Human-computer interaction, Medical micro-robots. His major work focuses on the top conferences, and journals on human-computer interaction and virtual reality, just like: ACM CHI, IEEE VR, IEEE Transactions on Visualization and Computer Graphics...
 {style="text-align: justify;"}
