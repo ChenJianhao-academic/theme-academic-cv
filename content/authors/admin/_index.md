@@ -62,6 +62,11 @@ skills:
         percent: 100
         icon: unity
         icon_pack: fas
+        - name: Arduino
+        description: ''
+        percent: 80
+        icon: database
+        icon_pack: fas
       - name: SQL
         description: ''
         percent: 40
