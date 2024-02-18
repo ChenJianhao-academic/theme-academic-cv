@@ -25,7 +25,7 @@ organizations:
     url: https://www.hkust-gz.edu.cn/zh/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed virtual reality, robotics, Human-computer interaction, Medical micro-robots
+bio: My research interests include distributed Virtual Reality(VR), Robotics, Human-computer interaction(HCI), Medical micro-robots
 # Interests to show in About widget
 interests:
   - Virtual Reality
