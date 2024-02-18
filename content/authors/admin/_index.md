@@ -60,7 +60,7 @@ skills:
       - name: Unity
         description: ''
         percent: 100
-        icon: Unity
+        icon: Markdown
         icon_pack: fas
       - name: SQL
         description: ''
