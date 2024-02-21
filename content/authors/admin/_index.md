@@ -3,7 +3,7 @@
 title: 陈建浩
 
 # Name pronunciation (optional)
-name_pronunciation: CHEN Jianhao
+name_pronunciation: Chen Jianhao
 
 # Full name (for SEO)
 first_name: Jianhao
