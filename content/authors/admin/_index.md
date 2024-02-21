@@ -7,7 +7,7 @@ name_pronunciation: CHEN Jianhao
 
 # Full name (for SEO)
 first_name: Jianhao
-last_name: CHEN
+last_name: Chen
 
 # Status emoji
 status:
@@ -126,5 +126,5 @@ social:
 highlight_name: true
 ---
 
-Jianhao CHEN is a Mphil Candidate of Smart Manufactory at the Hong Kong University of Science and Technology. His research interests include virtual reality, robotics, human-computer interaction, and medical micro-robots. His major work focuses on the top conferences, and journals on human-computer interaction and virtual reality, just like: ACM CHI, IEEE VR, IEEE Transactions on Visualization and Computer Graphics...
+Jianhao Chen is a Mphil Candidate of Smart Manufactory at the Hong Kong University of Science and Technology. His research interests include virtual reality, robotics, human-computer interaction, and medical micro-robots. His major work focuses on the top conferences, and journals on human-computer interaction and virtual reality, just like: ACM CHI, IEEE VR, IEEE Transactions on Visualization and Computer Graphics...
 {style="text-align: justify;"}
