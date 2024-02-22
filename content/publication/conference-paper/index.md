@@ -8,7 +8,7 @@ authors:
   - Shihan Fu
   - Jianhao Chen
   - Emily Kuang
-  - Mingming Fan∗
+  - Mingming Fan
 
 # Author notes (optional)
 author_notes:
