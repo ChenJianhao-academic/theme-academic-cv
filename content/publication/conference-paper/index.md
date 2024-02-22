@@ -5,17 +5,13 @@ authors:
   - Jianhao Chen
   - Emily Kuang
   - Mingming Fan
-
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-
 date: '2024-01-11T00:00:00Z'
 doi: 'https://doi.org/10.1145/3613904.3642423'
-
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-05-11T00:00:00Z'
-
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
