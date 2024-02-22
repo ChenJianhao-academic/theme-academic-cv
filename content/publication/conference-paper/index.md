@@ -1,5 +1,5 @@
 ---
-title: 'Bridging the Literacy Gap for Adults: Streaming and Engaging in Adult Literacy Education through Livestreaming'
+title: "Bridging the Literacy Gap for Adults: Streaming and Engaging in Adult Literacy Education through Livestreaming"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
