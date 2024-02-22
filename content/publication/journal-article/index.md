@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Eyes-Free Target Acquisition in Large Scale Interaction Space with vNeck Electrical Muscle Stimulation for Virtual Reality"
 authors:
 - admin
 - Robert Ford
