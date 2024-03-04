@@ -14,14 +14,14 @@ authors:
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-
+  - ''
   - 'Corresponding Author'
 
 date: '2024-01-11T00:00:00Z'
-doi: ''
+doi: ''https://doi.org/10.1145/3613904.3642423'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-05-011T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,11 +29,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *CHI Conference on Human Factors in Computing Systems (CHI ’24)*
+publication_short: In *CHI2024*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: Literacy---the ability to read, write, and comprehend text---is an important topic addressed by UNESCO. Despite global efforts to promote adult literacy education, rural areas with limited resources still lag behind. As livestreaming has gained popularity in China, many streamers \rv{leveraged its accessibility and affordability to reach low-literate adults. To gain a better understanding of the practices and challenges faced by adult literacy education through livestreaming, we conducted a mixed-methods study involving a 7-day observation of livestreaming sessions and an interview study with twelve streamers and ten viewers. We discovered streamers' altruistic motives and unique interactive approaches. Viewers perceived livestreaming as a more engaging, community-supportive method than traditional approaches. We also identified both shared and unique challenges for streamers and viewers that limit its efficacy as a learning tool. Finally, we recognized opportunities to enhance educational equity, emphasizing design implications for advancing adult literacy education and promoting diversity in livestreaming.
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
