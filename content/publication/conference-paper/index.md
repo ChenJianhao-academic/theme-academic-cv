@@ -18,7 +18,7 @@ author_notes:
   - 'Corresponding Author'
 
 date: '2024-01-11T00:00:00Z'
-doi: ''https://doi.org/10.1145/3613904.3642423'
+doi: 'https://doi.org/10.1145/3613904.3642423'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-05-011T00:00:00Z'
@@ -29,7 +29,7 @@ publishDate: '2024-05-011T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *CHI Conference on Human Factors in Computing Systems (CHI24)*
+publication: In *CHI Conference on Human Factors in Computing Systems (CHI'24)*
 publication_short: In *CHI2024*
 
 abstract: Literacy---the ability to read, write, and comprehend text---is an important topic addressed by UNESCO. Despite global efforts to promote adult literacy education, rural areas with limited resources still lag behind. As livestreaming has gained popularity in China , many streamers \rv{leveraged its accessibility and affordability to reach low-literate adults. To gain a better understanding of the practices and challenges faced by adult literacy education through livestreaming, we conducted a mixed-methods study involving a 7-day observation of livestreaming sessions and an interview study with twelve streamers and ten viewers. We discovered streamers' altruistic motives and unique interactive approaches. Viewers perceived livestreaming as a more engaging, community-supportive method than traditional approaches. We also identified both shared and unique challenges for streamers and viewers that limit its efficacy as a learning tool. Finally, we recognized opportunities to enhance educational equity, emphasizing design implications for advancing adult literacy education and promoting diversity in livestreaming.
