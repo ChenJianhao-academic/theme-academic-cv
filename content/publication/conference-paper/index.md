@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content/publication/conference-paper/CHI24_Adult_Literacy_Livestreaming.pdf'
+url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
