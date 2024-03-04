@@ -1,5 +1,9 @@
 ---
-title: "Bridging the Literacy Gap for Adults: Streaming and Engaging in Adult Literacy Education through Livestreaming"
+title: 'Bridging the Literacy Gap for Adults: Streaming and Engaging in Adult Literacy Education through Livestreaming'
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+
 authors:
   - Shihan Fu
   - Jianhao Chen
@@ -8,6 +12,7 @@ authors:
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
+  - 
 date: '2024-01-11T00:00:00Z'
 doi: 'https://doi.org/10.1145/3613904.3642423'
 # Schedule page publish date (NOT publication's date).
