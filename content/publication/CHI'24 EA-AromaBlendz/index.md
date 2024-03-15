@@ -30,7 +30,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *CHI EA: Conference on Human Factors in Computing Systems-Extended Abstracts*
-publication_short: In *CHI EA24*
+publication_short: In *CHI EA'24*
 
 abstract: Although the HCI community has recently begun to explore the usage of scent to enrich interactive system experiences (e.g., making VR more immersive), scent is often preset. In contrast, personalized scents might help trigger emotional responses and memory recall in many application scenarios, ranging from fostering relaxaction to managing emotional states. We present AromaBlendz, a novel digital platform that enables users to create and customize their unique scent profiles. AromaBlendz comprises both hardware and software components that collectively deliver a seamless scent customization experience. The hardware includes a blending mechanism for essence oils and a user-friendly control unit, while the software component provides an intuitive interface for users to create, preview, and store their preferred scents. The platform not only allows for the generation of personalized scent profiles using a library of essential oils but also facilitates the process of scent creation through an accessible and interactive user interface.
 # Summary. An optional shortened abstract.
