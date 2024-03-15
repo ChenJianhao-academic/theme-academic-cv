@@ -1,13 +1,13 @@
 ---
-title: 'Bridging the Literacy Gap for Adults: Streaming and Engaging in Adult Literacy Education through Livestreaming'
+title: 'AromaBlendz: An Olfactory System for Crafting Personalized Scents'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Shihan Fu
   - Jianhao Chen
-  - Emily Kuang
+  - Shihan Fu
+  - Yi Cai
   - Mingming Fan
 
 # Author notes (optional)
@@ -18,7 +18,7 @@ author_notes:
   - 'Corresponding Author'
 
 date: '2024-01-11T00:00:00Z'
-doi: 'https://doi.org/10.1145/3613904.3642423'
+doi: 'https://doi.org/10.1145/3613905.3648670'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-05-011T00:00:00Z'
@@ -29,13 +29,14 @@ publishDate: '2024-05-011T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *CHI Conference on Human Factors in Computing Systems (CHI'24)*
-publication_short: In *CHI2024*
+publication: In *CHI EA: Conference on Human Factors in Computing Systems-Extended Abstracts*
+publication_short: In *CHI EA'24*
 
-abstract: Literacy---the ability to read, write, and comprehend text---is an important topic addressed by UNESCO. Despite global efforts to promote adult literacy education, rural areas with limited resources still lag behind. As livestreaming has gained popularity in China , many streamers \rv{leveraged its accessibility and affordability to reach low-literate adults. To gain a better understanding of the practices and challenges faced by adult literacy education through livestreaming, we conducted a mixed-methods study involving a 7-day observation of livestreaming sessions and an interview study with twelve streamers and ten viewers. We discovered streamers' altruistic motives and unique interactive approaches. Viewers perceived livestreaming as a more engaging, community-supportive method than traditional approaches. We also identified both shared and unique challenges for streamers and viewers that limit its efficacy as a learning tool. Finally, we recognized opportunities to enhance educational equity, emphasizing design implications for advancing adult literacy education and promoting diversity in livestreaming.
+abstract: Although the HCI community has recently begun to explore the usage of scent to enrich interactive system experiences (e.g., making
+VR more immersive), scent is often preset. In contrast, personalized scents might help trigger emotional responses and memory recall in many application scenarios, ranging from fostering relaxation to managing emotional states. We present AromaBlendz, a novel digital platform that enables users to create and customize their unique scent profiles. AromaBlendz comprises both hardware and software components that collectively deliver a seamless scent customization experience. The hardware includes a blending mechanism for essence oils and a user-friendly control unit, while the software component provides an intuitive interface for users to create, preview, and store their preferred scents. The platform not only allows for the generation of personalized scent profiles using a library of essential oils but also facilitates the process of scent creation through an accessible and interactive user interface.
 # Summary. An optional shortened abstract.
-summary: livestreaming, adult literacy, education
-tags: [HCI,livestreaming, adult literacy, education]
+summary: Olfactory Device, Hardware, Digital smell technology, Odour interfaces, Olfactory experiences
+tags: [Olfactory Device, Hardware, Digital smell technology, Odour interfaces, Olfactory experiences]
 
 # Display this page in the Featured widget?
 featured: true
