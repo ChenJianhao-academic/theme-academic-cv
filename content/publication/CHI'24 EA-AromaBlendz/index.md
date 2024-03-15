@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://github.com/ChenJianhao-academic/theme-academic-cv/blob/bbd847801560c9b762a390969935a8e613a92cda/content/publication/CHI'24%20EA-AromaBlendz/CHI_Interactivity_AromaBlendz%20(1).pdf'
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
