@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: 香港科技大学广州校区实践项目(Hong Kong University of Science and Technology Guangzhou Campus Teaching Practice Project)
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
