@@ -1,3 +1,4 @@
+
 ---
 # Display name
 title: 陈建浩
@@ -89,11 +90,11 @@ skills:
       - name: Photography
         description: ''
         percent: 80
-        icon: Camera-retro
+        icon: camera
         icon_pack: fas
       - name: Snowboarding
         description: ''
-        percent: 80
+        percent: 75
         icon: person-snowboarding
         icon_pack: fas
 
