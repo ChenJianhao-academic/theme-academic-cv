@@ -112,6 +112,11 @@ skills:
         percent: 75
         icon: person-snowboarding
         icon_pack: fas
+      - name: Detective novel
+        description: ''
+        percent: 100
+        icon: user-secret
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
