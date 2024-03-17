@@ -66,12 +66,17 @@ skills:
       - name: Arduino
         description: ''
         percent: 80
-        icon: database
+        icon: chess-board
         icon_pack: fas
       - name: SQL
         description: ''
         percent: 40
         icon: database
+        icon_pack: fas
+      - name: ROS
+        description: ''
+        percent: 30
+        icon: robot
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
