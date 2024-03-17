@@ -78,6 +78,16 @@ skills:
         percent: 30
         icon: robot
         icon_pack: fas
+      - name: figma
+        description: ''
+        percent: 80
+        icon: figma
+        icon_pack: fas
+      - name: android-studio
+        description: ''
+        percent: 80
+        icon: android
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
