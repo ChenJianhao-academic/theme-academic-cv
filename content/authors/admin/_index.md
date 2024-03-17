@@ -89,9 +89,9 @@ skills:
       - name: Photography
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: Camera-retro
         icon_pack: fas
-     - name: snowboarding
+      - name: Snowboarding
         description: ''
         percent: 80
         icon: person-snowboarding
