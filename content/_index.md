@@ -98,14 +98,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://ejtech.hkej.com/market-update/%E6%B8%AF%E7%A7%91%E5%A4%A7%EF%BC%88%E5%BB%A3%E5%B7%9E%EF%BC%89%E9%BB%91%E5%AE%A2%E6%9D%BE%E5%A5%AA%E5%86%A0-%E7%B5%90%E5%90%88%E5%85%83%E5%AE%87%E5%AE%99%E5%B7%A5%E6%A5%AD4-0-%E6%8F%90%E5%8D%87/
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-01-25'
           description: ''
           icon: coursera
           organization: Hong Kong Digital Asset Society
           organization_url: https://www.coursera.org](https://ec.hkust.edu.hk/news/hkdass-hackathon-2023-web3-esg
-          title: HKDAS Hackathon 2023
+          title: Champion And Best Innovation Award HKDAS Hackathon 2023
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
