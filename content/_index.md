@@ -103,9 +103,9 @@ sections:
           date_start: '2021-01-25'
           description: ''
           icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Hong Kong Digital Asset Society
+          organization_url: https://www.coursera.org](https://ec.hkust.edu.hk/news/hkdass-hackathon-2023-web3-esg
+          title: HKDAS Hackathon 2023
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
