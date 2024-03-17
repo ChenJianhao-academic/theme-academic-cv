@@ -1,6 +1,6 @@
 ---
 title: Hong Kong University of Science and Technology Guangzhou Campus Teaching Practice Project 香港科技大学广州校区实践研究项目 
-summary:Group interactive CNC machine tool education and training empowered by mixed reality technology 混合现实技术赋能的群体互动性数控机床教育和培训 
+summary: Group interactive CNC machine tool education and training empowered by mixed reality technology 混合现实技术赋能的群体互动性数控机床教育和培训 
 tags:
   - Mixed Reality
 date: '2023-12-27T00:00:00Z'
