@@ -82,12 +82,12 @@ skills:
         description: ''
         percent: 80
         icon: figma
-        icon_pack: fas
+        icon_pack: fab
       - name: android-studio
         description: ''
         percent: 80
         icon: android
-        icon_pack: fas
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
