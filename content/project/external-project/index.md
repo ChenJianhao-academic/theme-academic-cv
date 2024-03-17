@@ -1,5 +1,5 @@
 ---
-title: External Project
+title: 国自然
 summary: An example of linking directly to an external project website using `external_link`.
 tags:
   - Demo
