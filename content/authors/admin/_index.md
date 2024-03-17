@@ -60,8 +60,8 @@ skills:
       - name: Unity
         description: ''
         percent: 100
-        icon: devicon/unity
-        icon_pack: devicon
+        icon: unity
+        icon_pack: fab
       - name: Arduino
         description: ''
         percent: 80
