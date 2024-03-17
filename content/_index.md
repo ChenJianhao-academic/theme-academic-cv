@@ -171,10 +171,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Mixed Reality
+          tag: Mixed Reality
+        - name: Human-Coputer interaction
+          tag: Human-Coputer interaction
+        - name: Robotics
+          tag: Robotics
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
