@@ -45,9 +45,11 @@ education:
       institution: Hong Kong University of Science and Technology
       year: 2024
     - course: BSc in Information Technology
-      institution: James Cook Univercity/nSichuan Univercity
+      institution: James Cook Univercity
       year: 2022
-
+    - course: BSc in Information Technology
+      institution: Sichuan Univercity
+      year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
