@@ -1,11 +1,14 @@
 ---
 title: "Eyes-Free Target Acquisition in Large Scale Interaction Space with vNeck Electrical Muscle Stimulation for Virtual Reality"
 authors:
+- Huangyi Qu
 - admin
-- Robert Ford
+- Yi Cai
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 
+-
+- Corresponding author
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
